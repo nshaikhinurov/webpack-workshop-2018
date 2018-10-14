@@ -60,3 +60,5 @@ typings/
 # webpack default dist folder
 dist/
 
+package-lock.json
+
